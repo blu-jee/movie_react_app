@@ -8,7 +8,7 @@
     margin-top: 100px;
     max-width: 25%;
     font-weight: 300;
-    animation: moveupdown 2s infinite linear;
+    animation: moveupdown 2.5s infinite linear;
 }
 
 @keyframes moveupdown{
@@ -18,6 +18,15 @@
     50%{
         transform: translate(10%, 15%);
     }
+}
+
+.about__container h1{
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.about__container span{
+    line-height: 1.5em;
 }
 
 .about__container span:first-child {

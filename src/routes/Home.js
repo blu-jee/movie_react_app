@@ -23,8 +23,10 @@ class Home extends React.Component {
             </div>
                 : (
                     <div className="movies">
+                        <div className="heading">Movie Top 20</div>
                         {movies.map(movie =>
                             (<Movie key={movie.id} id={movie.year} year={movie.year} title={movie.title} summary={movie.summary} poster={movie.medium_cover_image} genres={movie.genres} />))}
+                        <footer className="footer"><p>2020 Coder Jeeyeon - All rights reserved</p></footer>
                     </div>
                 )}</section>;
     }

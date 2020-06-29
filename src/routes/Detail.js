@@ -13,8 +13,9 @@ class Detail extends React.Component {
         if (location.state) {
             return (
                 <div className="about__container">
-                    <h1>Summary</h1>
-                    <span> {location.state.summary}</span>
+                    <h1>{location.state.title}</h1>
+                    <h3>Summary</h3>
+                    <span> &nbsp;{location.state.summary}</span>
                 </div>
             );
         } else {

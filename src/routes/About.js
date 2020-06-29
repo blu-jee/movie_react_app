@@ -4,10 +4,9 @@ import "./About.css"
 function About() {
     return <div className="about__container">
         <span>
-            “Freedom is the freedom to say that two plus two make four. If that is
-            granted, all else follows.”
+            ReactJS로 "영화 웹 서비스" 만들기 프로젝트
         </span>
-        <span>- George Orwell, 1984</span>
+        <span>- YTS proxy API 사용</span>
     </div>
 }
 
