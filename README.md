@@ -19,5 +19,5 @@ React JS
 ##### - Description
 
 <kbd>
-<img src="https://user-images.githubusercontent.com/43735576/85998069-4b79ba80-ba45-11ea-9b87-5ac41c57663d.png" />
+<img src="https://user-images.githubusercontent.com/43735576/85998069-4b79ba80-ba45-11ea-9b87-5ac41c57663d.png" width="80%" />
 </kbd>
