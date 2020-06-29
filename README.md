@@ -6,6 +6,7 @@ React JS
 1. React 동적 데이터 추가
 2. YTS proxy API 사용
 3. Hash Router
+4. Component Life Cycle
 
 <br/>
 
@@ -14,6 +15,13 @@ React JS
 <kbd>
 <img src="https://user-images.githubusercontent.com/43735576/85997136-1ae55100-ba44-11ea-9c89-91ee2e8f4922.png" />
 </kbd>
+<br /><br />
+
+##### Loading (componentDidMount)
+<kbd>
+<img src="https://user-images.githubusercontent.com/43735576/85998534-e5416780-ba45-11ea-8e76-f76c67a722f7.png" widht="50%" />
+</kdb>
+
 <br /><br />
 
 ##### - Description
