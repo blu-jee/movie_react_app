@@ -17,7 +17,7 @@ React JS
 </kbd>
 <br /><br />
 
-##### Loading (componentDidMount)
+##### - Loading (componentDidMount)
 <kbd>
 <img src="https://user-images.githubusercontent.com/43735576/85998534-e5416780-ba45-11ea-8e76-f76c67a722f7.png" />
 </kdb>
