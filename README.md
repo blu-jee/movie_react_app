@@ -8,5 +8,5 @@ React JS
 3. Hash Router
 
 <kbd>
-![스크린샷 2020-06-29 오후 8 01 31](https://user-images.githubusercontent.com/43735576/85997136-1ae55100-ba44-11ea-9c89-91ee2e8f4922.png)
+<img src="https://user-images.githubusercontent.com/43735576/85997136-1ae55100-ba44-11ea-9c89-91ee2e8f4922.png" />
 </kbd>
